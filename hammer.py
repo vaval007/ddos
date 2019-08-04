@@ -79,10 +79,10 @@ def usage():
 	.Script untuk member FR13ND5 saja.caranya cari IP target dengan ketik ping
  URL pada termux setelah IP target sudah ada masukan perintah dengan cara sperti
  contoh dibawah ini
-. Tutor by Mr Horden/FR13ND5 Your ip is visible. \n
+. Tutor by Mr Horden/lmb007 & Mr vaval/lmb007 Team FR13ND5 Your ip is visible. \n
 ███████▀▀▀░░░░░░░▀▀▀███████
 ████▀░░░░░░░░░░░░░░░░░▀████
-███│░░░░░Mr____HORDEN░░░░░│███
+███│  Mr Horden & Mr vaval│███
 ██▌│░░░░░░░░░░░░░░░░░░░│▐██
 ██░└┐░░░░░░░░░░░░░░░░░┌┘░██
 ██░░└┐░░░░░░░░░░░░░░░┌┘░░██
